@@ -194,7 +194,7 @@ let 💰 = "You need buy a book from LeetCode"
 191. [ ] 😎 [Number of 1 Bits](https://oj.leetcode.com/problems/number-of-1-bits/) - [Swift](./Algorithms/NumberOf1Bits.swift) - [Test](./LeetCodeTests/NumberOf1BitsTest.swift)
 198. [ ] 😎 [House Robber](https://leetcode.com/problems/house-robber/) - [Swift](./Algorithms/HouseRobber.swift) - [Test](./LeetCodeTests/HouseRobberTest.swift)
 199. [x] 😐 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) - [Swift](./Algorithms/BinaryTreeRightSideView.swift) - [Test](./LeetCodeTests/BinaryTreeRightSideViewTest.swift)
-200. [ ] 😐 [Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Swift](./Algorithms/NumberOfIslands.swift) - [Test](./LeetCodeTests/NumberOfIslandsTest.swift)
+200. [x] 😐 [Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Swift](./Algorithms/NumberOfIslands.swift) - [Test](./LeetCodeTests/NumberOfIslandsTest.swift)
 201. [ ] 😐 [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) - [Swift](./Algorithms/BitwiseAndOfNumbersRange.swift) - [Test](./LeetCodeTests/BitwiseAndOfNumbersRangeTest.swift)
 202. [ ] 😎 [Happy Number](https://leetcode.com/problems/happy-number/) - [Swift](.Algorithms/HappyNumber.swift) - [Test](./LeetCodeTests/HappyNumberTest.swift)
 203. [ ] 😎 [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) - [Swift](./Algorithms/RemoveLinkedListElements.swift) - [Test](./LeetCodeTests/RemoveLinkedListElementsTest.swift)
