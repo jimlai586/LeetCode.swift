@@ -183,7 +183,7 @@ let 💰 = "You need buy a book from LeetCode"
 170. [ ] 😎 [Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) 💰 - [Swift](./Algorithms/TwoSum.III.swift) - [Test](./LeetCodeTests/TwoSum.IIITest.swift)
 171. [ ] 😎 [Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) - [Swift](./Algorithms/ExcelSheetColumnNumber.swift) - [Test](./LeetCodeTests/ExcelSheetColumnNumberTest.swift)
 172. [ ] 😎 [Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) - [Swift](./Algorithms/FactorialTrailingZeroes.swift) - [Test](./LeetCodeTests/FactorialTrailingZeroesTest.swift)
-173. [ ] 😐 [Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) - [Swift](./Algorithms/BinarySearchTreeIterator.swift) - [Test](./LeetCodeTests/BinarySearchTreeIteratorTest.swift)
+173. [x] 😐 [Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) - [Swift](./Algorithms/BinarySearchTreeIterator.swift) - [Test](./LeetCodeTests/BinarySearchTreeIteratorTest.swift)
 174. [x] 😨 [Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) - [Swift](./Algorithms/DungeonGame.swift) - [Test](./LeetCodeTests/DungeonGameTest.swift)
 179. [ ] 😐 [Largest Number](https://oj.leetcode.com/problems/largest-number/) - [Swift](./Algorithms/LargestNumber.swift) - [Test](./LeetCodeTests/LargestNumberTest.swift)
 186. [ ] 😐 [Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) 💰 - [Swift](./Algorithms/ReverseWordsInAString.II.swift) - [Test](./LeetCodeTests/ReverseWordsInAString.IITest.swift)
