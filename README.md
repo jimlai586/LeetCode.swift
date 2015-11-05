@@ -48,7 +48,7 @@ let 💰 = "You need buy a book from LeetCode"
 35. [ ] 😎 [Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/) - [Swift](./Algorithms/ValidSudoku.swift) - [Test](./LeetCodeTests/ValidSudokuTest.swift)
 36. [ ] 😨 [Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/) - [Swift](./Algorithms/SudokuSolver.swift) - [Test](./LeetCodeTests/SudokuSolverTest.swift)
 37. [ ] 😎 [Count and Say](https://oj.leetcode.com/problems/count-and-say/) - [Swift](./Algorithms/CountAndSay.swift) - [Test](./LeetCodeTests/CountAndSayTest.swift)
-38. [ ] 😐 [Combination Sum](https://oj.leetcode.com/problems/combination-sum/) - [Swift](./Algorithms/CombinationSum.swift) - [Test](./LeetCodeTests/CombinationSumTest.swift)
+38. [x] 😐 [Combination Sum](https://oj.leetcode.com/problems/combination-sum/) - [Swift](./Algorithms/CombinationSum.swift) - [Test](./LeetCodeTests/CombinationSumTest.swift)
 39. [ ] 😐 [Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/) - [Swift](./Algorithms/CombinationSum.II.swift) - [Test](./LeetCodeTests/CombinationSum.IITest.swift)
 40. [ ] 😨 [First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/) - [Swift](./Algorithms/FirstMissingPositive.swift) - [Test](./LeetCodeTests/FirstMissingPositiveTest.swift)
 41. [ ] 😨 [Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/) - [Swift](./Algorithms/TrappingRainWater.swift) - [Test](./LeetCodeTests/TrappingRainWaterTest.swift)
