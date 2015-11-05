@@ -26,7 +26,7 @@ let 💰 = "You need buy a book from LeetCode"
 13. [ ] 😎 [Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/) - [Swift](./Algorithms/RomanToInteger.swift) - [Test](./LeetCodeTests/RomanToIntegerTest.swift)
 14. [ ] 😎 [Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/) - [Swift](./Algorithms/LongestCommonPrefix.swift) - [Test](./LeetCodeTests/LongestCommonPrefixTest.swift)
 15. [ ] 😐 [3Sum](https://oj.leetcode.com/problems/3sum/) - [Swift](./Algorithms/3Sum.swift) - [Test](./LeetCodeTests/3SumTest.swift)
-16. [ ] 😐 [3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/) - [Swift](./Algorithms/3SumClosest.swift) - [Test](./LeetCodeTests/3SumClosestTest.swift)
+16. [x] 😐 [3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/) - [Swift](./Algorithms/3SumClosest.swift) - [Test](./LeetCodeTests/3SumClosestTest.swift)
 17. [ ] 😐 [4Sum](https://oj.leetcode.com/problems/4sum/) - [Swift](./Algorithms/4Sum.swift) - [Test](./LeetCodeTests/4SumTest.swift)
 18. [ ] 😐 [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/) - [Swift](./Algorithms/LetterCombinationsOfAPhoneNumber.swift) - [Test](./LeetCodeTests/LetterCombinationsOfAPhoneNumberTest.swift)
 19. [ ] 😎 [Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Swift](./Algorithms/RemoveNthNodeFromEndOfList.swift) - [Test](./LeetCodeTests/RemoveNthNodeFromEndOfListTest.swift)
