@@ -14,7 +14,7 @@ let 💰 = "You need buy a book from LeetCode"
 1. [x] 😐 [Two Sum](https://oj.leetcode.com/problems/two-sum/) - [Swift](./Algorithms/TwoSum.swift) - [Test](./LeetCodeTests/TwoSumTest.swift)
 2. [ ] 😐 [Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) - [Swift](./Algorithms/AddTwoNumbers.swift) - [Test](./LeetCodeTests/AddTwoNumbersTest.swift)
 3. [ ] 😐 [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/) - [Swift](./Algorithms/LongestSubstringWithoutRepeatingCharacters.swift) - [Test](./LeetCodeTests/LongestSubstringWithoutRepeatingCharactersTest.swift)
-4. [ ] 😨 [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/) - [Swift](./Algorithms/MediaOfTwoSortedArrays.swift) - [Test](./LeetCodeTests/MediaOfTwoSortedArraysTest.swift)
+4. [x] 😨 [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/) - [Swift](./Algorithms/MediaOfTwoSortedArrays.swift) - [Test](./LeetCodeTests/MediaOfTwoSortedArraysTest.swift)
 5. [ ] 😐 [Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) - [Swift](./Algorithms/LongestPalindromicSubstring.swift) - [Test](./LeetCodeTests/LongestPalindromicSubstringTest.swift)
 6. [x] 😎 [ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/) - [Swift](./Algorithms/ZigZagConversion.swift) - [Test](./LeetCodeTests/ZigZagConversionTest.swift)
 7. [ ] 😎 [Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) - [Swift](./Algorithms/ReverseInteger.swift) - [Test](./LeetCodeTests/ReverseIntegerTest.swift)
