@@ -1,48 +1,30 @@
-func reverseBetween(var head : ListNode, m : Int, n : Int) -> ListNode {
+func revLL2(head : ListNode?, start: Int, end: Int) -> ListNode? {
     
     
-    guard n > m else {
-        return head
+    var h = head
+    
+    for _ in 0 ..< start-2 {
+        h = h?.next
     }
-    
-    
-    var p1 = head
-    var p2 = head.next
-    var if1, if2, if3, if4 : ListNode?
-    
-    for i in 1 ..< n {
-        
-        let p3 = p2?.next
-        
-        if i == m - 1 {
-            if1 = p1
-        }
-        if i == m {
-            if3 = p1
-        }
-        
-        if i == n - 1 {
-            if4 = p3
-            if2 = p2
-            if m == 1 {
-                head = if2!
-            }
-        }
-        
-        if i >= m {
-            p2?.next = p1
-            p1 = p2!
-            p2 = p3
-            continue
-        }
-        p1 = p1.next!
-        p2 = p1.next
-    }
-    
-    if1?.next = if2
-    if3?.next = if4
 
+    let front = h
+    let back = h?.next
+    var p = back
+    var pp = p?.next
+    var ppp = p?.next
     
+    for _ in 0 ..< end-start-1 {
+        pp = ppp
+        ppp = ppp?.next
+        pp?.next = p
+        p = pp
+    }
     
-    return head
+    pp = ppp
+    front?.next = pp
+    ppp = ppp?.next
+    pp?.next = p
+    back?.next = ppp
+    return start==1 ? back : head
+    
 }
