@@ -55,7 +55,7 @@ let 💰 = "You need buy a book from LeetCode"
 42. [ ] 😐 [Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) - [Swift](./Algorithms/MultiplyStrings.swift) - [Test](./LeetCodeTests/MultiplyStringsTest.swift)
 43. [ ] 😨 [Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/) - [Swift](./Algorithms/WildcardMatching.swift) - [Test](./LeetCodeTests/WildcardMatchingTest.swift)
 44. [ ] 😨 [Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/) - [Swift](./Algorithms/JumpGame.II.swift) - [Test](./LeetCodeTests/JumpGame.IITest.swift)
-45. [ ] 😐 [Permutations](https://oj.leetcode.com/problems/permutations/) - [Swift](./Algorithms/Permutations.swift) - [Test](./LeetCodeTests/PermutationsTest.swift)
+45. [x] 😐 [Permutations](https://oj.leetcode.com/problems/permutations/) - [Swift](./Algorithms/Permutations.swift) - [Test](./LeetCodeTests/PermutationsTest.swift)
 46. [ ] 😨 [Permutations II](https://oj.leetcode.com/problems/permutations-ii/) - [Swift](./Algorithms/Permutations.II.swift) - [Test](./LeetCodeTests/Permutations.IITest.swift)
 47. [ ] 😐 [Rotate Image](https://oj.leetcode.com/problems/rotate-image/) - [Swift](./Algorithms/RotateImage.swift) - [Test](./LeetCodeTests/RotateImageTest.swift)
 48. [ ] 😐 [Anagrams](https://oj.leetcode.com/problems/anagrams/) - [Swift](./Algorithms/Anagrams.swift) - [Test](./LeetCodeTests/AnagramsTest.swift)
