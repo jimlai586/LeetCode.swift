@@ -1,13 +1,5 @@
 # LeetCode.swift
 
-[![CircleCI](https://img.shields.io/circleci/project/lexrus/LeetCode.swift.svg)](https://circleci.com/gh/lexrus/LeetCode.swift)
-![License](https://img.shields.io/github/license/lexrus/ios-dev-playbook.svg?style=flat)
-![Progress](https://img.shields.io/badge/Progress-24%20%2F%20210%20=%2011.43%25-ff69b4.svg)
-
-[![Git](https://img.shields.io/badge/GitHub-lexrus-blue.svg?style=flat)](https://github.com/lexrus)
-[![Twitter](https://img.shields.io/badge/twitter-@lexrus-blue.svg?style=flat)](http://twitter.com/lexrus)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Lex Tang-blue.svg?style=flat)](https://cn.linkedin.com/in/lexrus/en)
-[![eMail](https://img.shields.io/badge/email-lexrus@gmail.com-blue.svg?style=flat)](mailto:lexrus@gmail.com?SUBJECT=About LeetCode.swift)
 
 Forked from Lexrus/LeetCode.swift.
 I attempted to give my solutions to some problems as exercise.
