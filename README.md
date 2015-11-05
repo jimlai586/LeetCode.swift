@@ -207,7 +207,7 @@ let 💰 = "You need buy a book from LeetCode"
 210. [ ] 😐 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - [Swift](./Algorithms/CourseScheduleII.swift) - [Test](./LeetCodeTests/CourseScheduleIITest.swift)
 211. [ ] 😐 [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - [Swift](./Algorithms/AddAndSearchWordDataStructureDesign.swift) - [Test](./LeetCodeTests/AddAndSearchWordDataStructureDesignTest.swift)
 212. [ ] 😨 [Word Search II](https://leetcode.com/problems/word-search-ii/) - [Swift](./Algorithms/WordSearchII.swift) - [Test](./LeetCodeTests/WordSearchIITest.swift)
-213. [ ] 😐 [House Robber II](https://leetcode.com/problems/house-robber-ii/) - [Swift](./Algorithms/HouseRobberII.swift) - [Test](./LeetCodeTests/HouseRobberIITest.swift)
+213. [x] 😐 [House Robber II](https://leetcode.com/problems/house-robber-ii/) - [Swift](./Algorithms/HouseRobberII.swift) - [Test](./LeetCodeTests/HouseRobberIITest.swift)
 214. [x] 😨 [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) - [Swift](./Algorithms/ShortestPalindrome.swift) - [Test](./LeetCodeTests/ShortestPalindromeTest.swift)
 215. [ ] 😐 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [Swift](./Algorithms/KthLargestElementInAnArray.swift) - [Test](./LeetCodeTests/KthLargestElementInAnArrayTest.swift)
 216. [ ] 😐 [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) - [Swift](./Algorithms/CombinationSumIII.swift) - [Test](./LeetCodeTests/CombinationSumIIITest.swift)
