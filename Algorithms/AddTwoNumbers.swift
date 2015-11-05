@@ -1,53 +1,31 @@
-//
-//  AddTwoNumbers.swift
-//  LeetCode
-//
-//  Created by Lex Tang on 4/16/15.
-//  Copyright (c) 2015 Lex Tang. All rights reserved.
-//
-//  This Swift class is imitated from another Swift implementation:
-//  https://github.com/diwu/LeetCode-Solutions-in-Swift/blob/master/Solutions/Solutions/Medium/Medium_002_Add_Two_Numbers.swift
-
-/*
-You are given two linked lists representing two non-negative numbers.
-The digits are stored in reverse order and each of their nodes contain a single digit.
-Add the two numbers and return it as a linked list.
-
-Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
-Output: 7 -> 0 -> 8
-*/
-
-import Foundation
-
-
-func +(list0: ListNode, list1: ListNode) -> ListNode {
-    var x: ListNode? = list0
-    var y: ListNode? = list1
-    var dummy = ListNode()
-    var current = dummy
-    var sum = 0
+func addTwoNums(num1 : ListNode, num2 : ListNode) -> ListNode {
     
-    while x != nil || y != nil {
-        // Sum
-        sum /= 10
-        if let _ = x {
-            sum += x!.value
-            x = x!.next
-        }
-        if let _ = y {
-            sum += y!.value
-            y = y!.next
-        }
-        
-        // Move next
-        current.next = ListNode(sum % 10)
-        current = current.next!
+    
+    var p1 : ListNode? = num1
+    var p2 : ListNode? = num2
+    var carry = 0
+    let head  = ListNode(item: 0)
+    var s = head
+    while let p = p1 ?? p2 {
+        carry = sumTwoNodes(p, node2: p2, sumNode: s, carry: carry)
+        s.next = ListNode(item: carry)
+        s = s.next!
+        p1 = p1?.next
+        p2 = p2?.next
     }
     
-    // If the previous node is greater than 10
-    if Bool(sum / 10) {
-        current.next = ListNode(1)
-    }
+    s.val = carry
     
-    return dummy.next!
+    return head
+}
+
+
+func sumTwoNodes(node1 : ListNode?, node2 : ListNode?, sumNode : ListNode?, carry : Int) -> Int {
+    
+    let d1 = node1?.val ?? 0
+    let d2 = node2?.val ?? 0
+    let sum = (d1 + d2 + carry) % 10
+    let carry = (d1 + d2 + carry) / 10
+    sumNode?.val = sum
+    return carry
 }
