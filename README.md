@@ -58,7 +58,7 @@ let 💰 = "You need buy a book from LeetCode"
 45. [x] 😐 [Permutations](https://oj.leetcode.com/problems/permutations/) - [Swift](./Algorithms/Permutations.swift) - [Test](./LeetCodeTests/PermutationsTest.swift)
 46. [ ] 😨 [Permutations II](https://oj.leetcode.com/problems/permutations-ii/) - [Swift](./Algorithms/Permutations.II.swift) - [Test](./LeetCodeTests/Permutations.IITest.swift)
 47. [ ] 😐 [Rotate Image](https://oj.leetcode.com/problems/rotate-image/) - [Swift](./Algorithms/RotateImage.swift) - [Test](./LeetCodeTests/RotateImageTest.swift)
-48. [ ] 😐 [Anagrams](https://oj.leetcode.com/problems/anagrams/) - [Swift](./Algorithms/Anagrams.swift) - [Test](./LeetCodeTests/AnagramsTest.swift)
+48. [x] 😐 [Anagrams](https://oj.leetcode.com/problems/anagrams/) - [Swift](./Algorithms/Anagrams.swift) - [Test](./LeetCodeTests/AnagramsTest.swift)
 49. [ ] 😐 ["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/) - [Swift](./Algorithms/Pow.swift) - [Test](./LeetCodeTests/PowTest.swift)
 50. [ ] 😨 [N-Queens](https://oj.leetcode.com/problems/n-queens/) - [Swift](./Algorithms/NQueuens.swift) - [Test](./LeetCodeTests/NQueuensTest.swift)
 51. [ ] 😨 [N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/) - [Swift](./Algorithms/NQueuens.II.swift) - [Test](./LeetCodeTests/NQueuens.IITest.swift)
