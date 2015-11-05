@@ -1,43 +1,20 @@
-//
-//  LongestCommonPrefix.swift
-//  LeetCode
-//
-//  Created by Lex Tang on 5/4/15.
-//  Copyright (c) 2015 Lex Tang. All rights reserved.
-//
-
-/*
-Write a function to find the longest common prefix string amongst an array of strings.
-
-@see also: https://github.com/haoel/leetcode/blob/master/algorithms/longestCommonPrefix/longestCommonPrefix.cpp
-*/
-
-import Foundation
-
-
-func longestCommonPrefix(list: [String]) -> String? {
+func lcp(arr: [String]) -> String {
     
-    var foundWord = ""
-    var match = false
+    let initial = arr[0]
 
-    if list.count == 0 || list[0].isEmpty {
-        return .None
-    }
-    
-    for (i, char) in enumerate(list[0]) {
-        for var j = 1; j < list.count; j++ {
-            if list[j][i] == char {
-                match = true
-            } else {
-                match = false
-                break
+
+    let lcp = arr.reduce(initial) { (prefix, str) in
+        
+        for index in prefix.characters.indices {
+            if prefix.characters[index] != str.characters[index] {
+                return prefix.substringToIndex(index)
             }
         }
         
-        if match {
-            foundWord.append(char)
-        }
+        return prefix
     }
     
-    return foundWord.isEmpty ? .None : foundWord
+    
+    return lcp
+    
 }
