@@ -9,37 +9,36 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-Lex Tang-blue.svg?style=flat)](https://cn.linkedin.com/in/lexrus/en)
 [![eMail](https://img.shields.io/badge/email-lexrus@gmail.com-blue.svg?style=flat)](mailto:lexrus@gmail.com?SUBJECT=About LeetCode.swift)
 
-> 愚者千虑，必有一得。
+Forked from Lexrus/LeetCode.swift.
+I attempted to give my solutions to some problems as exercise.
 
-As an idiot of algorithms, I make bold to resolve the problems on [LeetCode](https://leetcode.com). And especially, in my favorite [Swift](http://www.apple.com/swift/). Most of the algorithms were __not__ figured out by myself.
 
-PLEASE __DO NOT CONTRIBUTE__ until I accomplish all of them.
 
 ``` swift
 let 😎 = Easy, 😐 = Medium, 😨 = Hard
 let 💰 = "You need buy a book from LeetCode"
 ```
 
-1. [x] 😐 [Two Sum](https://oj.leetcode.com/problems/two-sum/) - [Swift](./Algorithms/TwoSum.swift) - [Test](./LeetCodeTests/TwoSumTest.swift)
-2. [x] 😐 [Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) - [Swift](./Algorithms/AddTwoNumbers.swift) - [Test](./LeetCodeTests/AddTwoNumbersTest.swift)
+1. [ ] 😐 [Two Sum](https://oj.leetcode.com/problems/two-sum/) - [Swift](./Algorithms/TwoSum.swift) - [Test](./LeetCodeTests/TwoSumTest.swift)
+2. [ ] 😐 [Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) - [Swift](./Algorithms/AddTwoNumbers.swift) - [Test](./LeetCodeTests/AddTwoNumbersTest.swift)
 3. [ ] 😐 [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/) - [Swift](./Algorithms/LongestSubstringWithoutRepeatingCharacters.swift) - [Test](./LeetCodeTests/LongestSubstringWithoutRepeatingCharactersTest.swift)
 4. [ ] 😨 [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/) - [Swift](./Algorithms/MediaOfTwoSortedArrays.swift) - [Test](./LeetCodeTests/MediaOfTwoSortedArraysTest.swift)
 5. [ ] 😐 [Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) - [Swift](./Algorithms/LongestPalindromicSubstring.swift) - [Test](./LeetCodeTests/LongestPalindromicSubstringTest.swift)
-6. [x] 😎 [ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/) - [Swift](./Algorithms/ZigZagConversion.swift) - [Test](./LeetCodeTests/ZigZagConversionTest.swift)
-7. [x] 😎 [Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) - [Swift](./Algorithms/ReverseInteger.swift) - [Test](./LeetCodeTests/ReverseIntegerTest.swift)
-8. [x] 😎 [String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/) - [Swift](./Algorithms/StringToIntegerAtoi.swift) - [Test](./LeetCodeTests/StringToIntegerAtoiTest.swift)
+6. [ ] 😎 [ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/) - [Swift](./Algorithms/ZigZagConversion.swift) - [Test](./LeetCodeTests/ZigZagConversionTest.swift)
+7. [ ] 😎 [Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) - [Swift](./Algorithms/ReverseInteger.swift) - [Test](./LeetCodeTests/ReverseIntegerTest.swift)
+8. [ ] 😎 [String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/) - [Swift](./Algorithms/StringToIntegerAtoi.swift) - [Test](./LeetCodeTests/StringToIntegerAtoiTest.swift)
 9. [x] 😎 [Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/) - [Swift](./Algorithms/PalindromeNumber.swift) - [Test](./LeetCodeTests/PalindromeNumberTest.swift)
 10. [ ] 😨 [Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/) - [Swift](./Algorithms/RegularExpressionMatching.swift) - [Test](./LeetCodeTests/RegularExpressionMatchingTest.swift)
 11. [ ] 😐 [Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/) - [Swift](./Algorithms/ContainerWithMostWater.swift) - [Test](./LeetCodeTests/ContainerWithMostWaterTest.swift)
 12. [ ] 😐 [Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/) - [Swift](./Algorithms/IntegerToRoman.swift) - [Test](./LeetCodeTests/IntegerToRomanTest.swift)
-13. [x] 😎 [Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/) - [Swift](./Algorithms/RomanToInteger.swift) - [Test](./LeetCodeTests/RomanToIntegerTest.swift)
-14. [x] 😎 [Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/) - [Swift](./Algorithms/LongestCommonPrefix.swift) - [Test](./LeetCodeTests/LongestCommonPrefixTest.swift)
+13. [ ] 😎 [Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/) - [Swift](./Algorithms/RomanToInteger.swift) - [Test](./LeetCodeTests/RomanToIntegerTest.swift)
+14. [ ] 😎 [Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/) - [Swift](./Algorithms/LongestCommonPrefix.swift) - [Test](./LeetCodeTests/LongestCommonPrefixTest.swift)
 15. [ ] 😐 [3Sum](https://oj.leetcode.com/problems/3sum/) - [Swift](./Algorithms/3Sum.swift) - [Test](./LeetCodeTests/3SumTest.swift)
 16. [ ] 😐 [3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/) - [Swift](./Algorithms/3SumClosest.swift) - [Test](./LeetCodeTests/3SumClosestTest.swift)
 17. [ ] 😐 [4Sum](https://oj.leetcode.com/problems/4sum/) - [Swift](./Algorithms/4Sum.swift) - [Test](./LeetCodeTests/4SumTest.swift)
 18. [ ] 😐 [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/) - [Swift](./Algorithms/LetterCombinationsOfAPhoneNumber.swift) - [Test](./LeetCodeTests/LetterCombinationsOfAPhoneNumberTest.swift)
-19. [x] 😎 [Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Swift](./Algorithms/RemoveNthNodeFromEndOfList.swift) - [Test](./LeetCodeTests/RemoveNthNodeFromEndOfListTest.swift)
-20. [x] 😎 [Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/) - [Swift](./Algorithms/ValidParentheses.swift) - [Test](./LeetCodeTests/ValidParenthesesTest.swift)
+19. [ ] 😎 [Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Swift](./Algorithms/RemoveNthNodeFromEndOfList.swift) - [Test](./LeetCodeTests/RemoveNthNodeFromEndOfListTest.swift)
+20. [ ] 😎 [Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/) - [Swift](./Algorithms/ValidParentheses.swift) - [Test](./LeetCodeTests/ValidParenthesesTest.swift)
 21. [ ] 😐 [Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/) - [Swift](./Algorithms/GenerateParentheses.swift) - [Test](./LeetCodeTests/GenerateParenthesesTest.swift)
 22. [ ] 😨 [Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/) - [Swift](./Algorithms/MergeKSortedLists.swift) - [Test](./LeetCodeTests/MergeKSortedListsTest.swift)
 23. [ ] 😐 [Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/) - [Swift](./Algorithms/SwapNodesInPairs.swift) - [Test](./LeetCodeTests/SwapNodesInPairsTest.swift)
@@ -56,7 +55,7 @@ let 💰 = "You need buy a book from LeetCode"
 34. [ ] 😐 [Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/) - [Swift](./Algorithms/SearchInsertPosition.swift) - [Test](./LeetCodeTests/SearchInsertPositionTest.swift)
 35. [ ] 😎 [Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/) - [Swift](./Algorithms/ValidSudoku.swift) - [Test](./LeetCodeTests/ValidSudokuTest.swift)
 36. [ ] 😨 [Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/) - [Swift](./Algorithms/SudokuSolver.swift) - [Test](./LeetCodeTests/SudokuSolverTest.swift)
-37. [x] 😎 [Count and Say](https://oj.leetcode.com/problems/count-and-say/) - [Swift](./Algorithms/CountAndSay.swift) - [Test](./LeetCodeTests/CountAndSayTest.swift)
+37. [ ] 😎 [Count and Say](https://oj.leetcode.com/problems/count-and-say/) - [Swift](./Algorithms/CountAndSay.swift) - [Test](./LeetCodeTests/CountAndSayTest.swift)
 38. [ ] 😐 [Combination Sum](https://oj.leetcode.com/problems/combination-sum/) - [Swift](./Algorithms/CombinationSum.swift) - [Test](./LeetCodeTests/CombinationSumTest.swift)
 39. [ ] 😐 [Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/) - [Swift](./Algorithms/CombinationSum.II.swift) - [Test](./LeetCodeTests/CombinationSum.IITest.swift)
 40. [ ] 😨 [First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/) - [Swift](./Algorithms/FirstMissingPositive.swift) - [Test](./LeetCodeTests/FirstMissingPositiveTest.swift)
@@ -76,17 +75,17 @@ let 💰 = "You need buy a book from LeetCode"
 54. [ ] 😐 [Jump Game](https://oj.leetcode.com/problems/jump-game/) - [Swift](./Algorithms/JumpGame.swift) - [Test](./LeetCodeTests/JumpGameTest.swift)
 55. [ ] 😨 [Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/) - [Swift](./Algorithms/MergeIntervals.swift) - [Test](./LeetCodeTests/MergeIntervalsTest.swift)
 56. [ ] 😨 [Insert Interval](https://oj.leetcode.com/problems/insert-interval/) - [Swift](./Algorithms/InsertInterval.swift) - [Test](./LeetCodeTests/InsertIntervalTest.swift)
-57. [x] 😎 [Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/) - [Swift](./Algorithms/LengthOfLastWord.swift) - [Test](./LeetCodeTests/LengthOfLastWordTest.swift)
+57. [ ] 😎 [Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/) - [Swift](./Algorithms/LengthOfLastWord.swift) - [Test](./LeetCodeTests/LengthOfLastWordTest.swift)
 58. [ ] 😐 [Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/) - [Swift](./Algorithms/SpiralMatrix.II.swift) - [Test](./LeetCodeTests/SpiralMatrix.IITest.swift)
 59. [ ] 😐 [Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/) - [Swift](./Algorithms/PermutationSequence.swift) - [Test](./LeetCodeTests/PermutationSequenceTest.swift)
 60. [ ] 😐 [Rotate List](https://oj.leetcode.com/problems/rotate-list/) - [Swift](./Algorithms/RotateList.swift) - [Test](./LeetCodeTests/RotateListTest.swift)
 61. [ ] 😐 [Unique Paths](https://oj.leetcode.com/problems/unique-paths/) - [Swift](./Algorithms/UniquePaths.swift) - [Test](./LeetCodeTests/UniquePathsTest.swift)
 62. [ ] 😐 [Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) - [Swift](./Algorithms/UniquePaths.II.swift) - [Test](./LeetCodeTests/UniquePaths.IITest.swift)
 63. [ ] 😐 [Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/) - [Swift](./Algorithms/MinimumPathSum.swift) - [Test](./LeetCodeTests/MinimumPathSumTest.swift)
-64. [x] 😎 [Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/) - [Swift](./Algorithms/MergeTwoSortedList.swift) - [Test](./LeetCodeTests/MergeTwoSortedListTest.swift)
+64. [ ] 😎 [Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/) - [Swift](./Algorithms/MergeTwoSortedList.swift) - [Test](./LeetCodeTests/MergeTwoSortedListTest.swift)
 65. [ ] 😎 [Add Binary](https://oj.leetcode.com/problems/add-binary/) - [Swift](./Algorithms/AddBinary.swift) - [Test](./LeetCodeTests/AddBinaryTest.swift)
-66. [x] 😎 [Valid Number](https://oj.leetcode.com/problems/valid-number/) - [Swift](./Algorithms/ValidNumber.swift) - [Test](./LeetCodeTests/ValidNumberTest.swift)
-67. [x] 😎 [Plus One](https://oj.leetcode.com/problems/plus-one/) - [Swift](./Algorithms/PlusOne.swift) - [Test](./LeetCodeTests/PlusOneTest.swift)
+66. [ ] 😎 [Valid Number](https://oj.leetcode.com/problems/valid-number/) - [Swift](./Algorithms/ValidNumber.swift) - [Test](./LeetCodeTests/ValidNumberTest.swift)
+67. [ ] 😎 [Plus One](https://oj.leetcode.com/problems/plus-one/) - [Swift](./Algorithms/PlusOne.swift) - [Test](./LeetCodeTests/PlusOneTest.swift)
 68. [ ] 😨 [Text Justification](https://oj.leetcode.com/problems/text-justification/) - [Swift](./Algorithms/TextJustification.swift) - [Test](./LeetCodeTests/TextJustificationTest.swift)
 69. [ ] 😐 [Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/) - [Swift](./Algorithms/Sqrt.swift) - [Test](./LeetCodeTests/SqrtTest.swift)
 70. [ ] 😎 [Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/) - [Swift](./Algorithms/ClimbStairs.swift) - [Test](./LeetCodeTests/ClimbStairsTest.swift)
@@ -107,7 +106,7 @@ let 💰 = "You need buy a book from LeetCode"
 85. [ ] 😨 [Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/) - [Swift](./Algorithms/MaximalRectangle.swift) - [Test](./LeetCodeTests/MaximalRectangleTest.swift)
 86. [ ] 😐 [Partition List](https://oj.leetcode.com/problems/partition-list/) - [Swift](./Algorithms/PartitionList.swift) - [Test](./LeetCodeTests/PartitionListTest.swift)
 87. [ ] 😨 [Scramble String](https://oj.leetcode.com/problems/scramble-string/) - [Swift](./Algorithms/ScrambleString.swift) - [Test](./LeetCodeTests/ScrambleStringTest.swift)
-88. [x] 😎 [Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/) - [Swift](./Algorithms/MergeSortedArray.swift) - [Test](./LeetCodeTests/MergeSortedArrayTest.swift)
+88. [ ] 😎 [Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/) - [Swift](./Algorithms/MergeSortedArray.swift) - [Test](./LeetCodeTests/MergeSortedArrayTest.swift)
 89. [ ] 😐 [Gray Code](https://oj.leetcode.com/problems/gray-code/) - [Swift](./Algorithms/GrayCode.swift) - [Test](./LeetCodeTests/GrayCodeTest.swift)
 90. [ ] 😐 [Decode Ways](https://oj.leetcode.com/problems/decode-ways/) - [Swift](./Algorithms/DecodeWays.swift) - [Test](./LeetCodeTests/DecodeWaysTest.swift)
 91. [ ] 😐 [Subsets II](https://oj.leetcode.com/problems/subsets-ii/) - [Swift](./Algorithms/Subsets.II.swift) - [Test](./LeetCodeTests/Subsets.IITest.swift)
@@ -119,8 +118,8 @@ let 💰 = "You need buy a book from LeetCode"
 97. [ ] 😨 [Interleaving String](https://oj.leetcode.com/problems/interleaving-string/) - [Swift](./Algorithms/InterleavingString.swift) - [Test](./LeetCodeTests/InterleavingStringTest.swift)
 98. [ ] 😐 [Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/) - [Swift](./Algorithms/ValidateBinarySearchTree.swift) - [Test](./LeetCodeTests/ValidateBinarySearchTreeTest.swift)
 99. [ ] 😨 [Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/) - [Swift](./Algorithms/RecoverBinarySearchTree.swift) - [Test](./LeetCodeTests/RecoverBinarySearchTreeTest.swift)
-100. [x] 😎 [Same Tree](https://oj.leetcode.com/problems/same-tree/) - [Swift](./Algorithms/SameTree.swift) - [Test](./LeetCodeTests/SameTreeTest.swift)
-101. [x] 😎 [Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/) - [Swift](./Algorithms/SymmetricTree.swift) - [Test](./LeetCodeTests/SymmetricTreeTest.swift)
+100. [ ] 😎 [Same Tree](https://oj.leetcode.com/problems/same-tree/) - [Swift](./Algorithms/SameTree.swift) - [Test](./LeetCodeTests/SameTreeTest.swift)
+101. [ ] 😎 [Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/) - [Swift](./Algorithms/SymmetricTree.swift) - [Test](./LeetCodeTests/SymmetricTreeTest.swift)
 102. [ ] 😎 [Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/) - [Swift](./Algorithms/BinaryTreeLevelOrderTraversal.swift) - [Test](./LeetCodeTests/BinaryTreeLevelOrderTraversalTest.swift)
 103. [ ] 😐 [Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) - [Swift](./Algorithms/BinaryTreeZigzagLevelOrderTraversal.swift) - [Test](./LeetCodeTests/BinaryTreeZigzagLevelOrderTraversalTest.swift)
 104. [ ] 😎 [Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/) - [Swift](./Algorithms/MaximumDepthOfBinaryTree.swift) - [Test](./LeetCodeTests/MaximumDepthOfBinaryTreeTest.swift)
@@ -229,12 +228,9 @@ let 💰 = "You need buy a book from LeetCode"
 223. [ ] 😎 [Rectangle Area](https://leetcode.com/problems/rectangle-area/) - [Swift](./Algorithms/RectangleArea.swift) - [Test](./LeetCodeTests/RectangleAreaTest.swift)
 224. [ ] 😐 [Basic Calculator](https://leetcode.com/problems/basic-calculator/) - [Swift](./Algorithms/BasicCalculator.swift) - [Test](./LeetCodeTests/BasicCalculatorTest.swift)
 225. [ ] 😐 [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - [Swift](./Algorithms/ImplementStackUsingQueues.swift) - [Test](./LeetCodeTests/ImplementStackUsingQueuesTest.swift)
-226. [x] 😎 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - [Swift](./Algorithms/InvertBinaryTree.swift) - [Test](./LeetCodeTests/InvertBinaryTreeTest.swift)
+226. [ ] 😎 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - [Swift](./Algorithms/InvertBinaryTree.swift) - [Test](./LeetCodeTests/InvertBinaryTreeTest.swift)
 
 
-## Unit tests
-Open the project with Xcode 6.3+ then press `command + u`.
-Or run `rake` in this folder if you have [xctool](https://github.com/facebook/xctool) installed.
 
 
 ## License
