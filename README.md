@@ -102,7 +102,7 @@ let 💰 = "You need buy a book from LeetCode"
 89. [ ] 😐 [Gray Code](https://oj.leetcode.com/problems/gray-code/) - [Swift](./Algorithms/GrayCode.swift) - [Test](./LeetCodeTests/GrayCodeTest.swift)
 90. [ ] 😐 [Decode Ways](https://oj.leetcode.com/problems/decode-ways/) - [Swift](./Algorithms/DecodeWays.swift) - [Test](./LeetCodeTests/DecodeWaysTest.swift)
 91. [ ] 😐 [Subsets II](https://oj.leetcode.com/problems/subsets-ii/) - [Swift](./Algorithms/Subsets.II.swift) - [Test](./LeetCodeTests/Subsets.IITest.swift)
-92. [ ] 😐 [Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/) - [Swift](./Algorithms/ReverseLinkedList.II.swift) - [Test](./LeetCodeTests/ReverseLinkedList.IITest.swift)
+92. [x] 😐 [Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/) - [Swift](./Algorithms/ReverseLinkedList.II.swift) - [Test](./LeetCodeTests/ReverseLinkedList.IITest.swift)
 93. [ ] 😐 [Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/) - [Swift](./Algorithms/RestoreIPAddresses.swift) - [Test](./LeetCodeTests/RestoreIPAddressesTest.swift)
 94. [ ] 😐 [Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/) - [Swift](./Algorithms/BinaryTreeInorderTraversal.swift) - [Test](./LeetCodeTests/BinaryTreeInorderTraversalTest.swift)
 95. [ ] 😐 [Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/) - [Swift](./Algorithms/UniqueBinarySearchTrees.swift) - [Test](./LeetCodeTests/UniqueBinarySearchTreesTest.swift)
