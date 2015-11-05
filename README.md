@@ -16,7 +16,7 @@ let 💰 = "You need buy a book from LeetCode"
 3. [ ] 😐 [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/) - [Swift](./Algorithms/LongestSubstringWithoutRepeatingCharacters.swift) - [Test](./LeetCodeTests/LongestSubstringWithoutRepeatingCharactersTest.swift)
 4. [ ] 😨 [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/) - [Swift](./Algorithms/MediaOfTwoSortedArrays.swift) - [Test](./LeetCodeTests/MediaOfTwoSortedArraysTest.swift)
 5. [ ] 😐 [Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) - [Swift](./Algorithms/LongestPalindromicSubstring.swift) - [Test](./LeetCodeTests/LongestPalindromicSubstringTest.swift)
-6. [ ] 😎 [ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/) - [Swift](./Algorithms/ZigZagConversion.swift) - [Test](./LeetCodeTests/ZigZagConversionTest.swift)
+6. [x] 😎 [ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/) - [Swift](./Algorithms/ZigZagConversion.swift) - [Test](./LeetCodeTests/ZigZagConversionTest.swift)
 7. [ ] 😎 [Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) - [Swift](./Algorithms/ReverseInteger.swift) - [Test](./LeetCodeTests/ReverseIntegerTest.swift)
 8. [ ] 😎 [String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/) - [Swift](./Algorithms/StringToIntegerAtoi.swift) - [Test](./LeetCodeTests/StringToIntegerAtoiTest.swift)
 9. [ ] 😎 [Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/) - [Swift](./Algorithms/PalindromeNumber.swift) - [Test](./LeetCodeTests/PalindromeNumberTest.swift)
