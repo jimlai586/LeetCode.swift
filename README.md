@@ -88,7 +88,7 @@ let 💰 = "You need buy a book from LeetCode"
 75. [ ] 😐 [Sort Colors](https://oj.leetcode.com/problems/sort-colors/) - [Swift](./Algorithms/SortColors.swift) - [Test](./LeetCodeTests/SortColorsTest.swift)
 76. [ ] 😨 [Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/) - [Swift](./Algorithms/MinimumWindowSubstring.swift) - [Test](./LeetCodeTests/MinimumWindowSubstringTest.swift)
 77. [ ] 😐 [Combinations](https://oj.leetcode.com/problems/combinations/) - [Swift](./Algorithms/Combinations.swift) - [Test](./LeetCodeTests/CombinationsTest.swift)
-78. [ ] 😐 [Subsets](https://oj.leetcode.com/problems/subsets/) - [Swift](./Algorithms/Subsets.swift) - [Test](./LeetCodeTests/SubsetsTest.swift)
+78. [x] 😐 [Subsets](https://oj.leetcode.com/problems/subsets/) - [Swift](./Algorithms/Subsets.swift) - [Test](./LeetCodeTests/SubsetsTest.swift)
 79. [ ] 😐 [Word Search](https://oj.leetcode.com/problems/word-search/) - [Swift](./Algorithms/WordSearch.swift) - [Test](./LeetCodeTests/WordSearchTest.swift)
 80. [x] 😐 [Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) - [Swift](./Algorithms/RemoveDuplicatesFromSortedArray.II.swift) - [Test](./LeetCodeTests/RemoveDuplicatesFromSortedArray.IITest.swift)
 81. [ ] 😐 [Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) - [Swift](./Algorithms/SearchInRotatedSortedArray.II.swift) - [Test](./LeetCodeTests/SearchInRotatedSortedArray.IITest.swift)
