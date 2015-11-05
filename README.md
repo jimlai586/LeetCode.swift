@@ -35,7 +35,7 @@ let 💰 = "You need buy a book from LeetCode"
 22. [ ] 😨 [Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/) - [Swift](./Algorithms/MergeKSortedLists.swift) - [Test](./LeetCodeTests/MergeKSortedListsTest.swift)
 23. [x] 😐 [Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/) - [Swift](./Algorithms/SwapNodesInPairs.swift) - [Test](./LeetCodeTests/SwapNodesInPairsTest.swift)
 24. [ ] 😨 [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/) - [Swift](./Algorithms/ReverseNodesInKGroup.swift) - [Test](./LeetCodeTests/ReverseNodesInKGroupTest.swift)
-25. [ ] 😎 [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Swift](./Algorithms/RemoveDuplicatesFromSortedArray.swift) - [Test](./LeetCodeTests/RemoveDuplicatesFromSortedArrayTest.swift)
+25. [x] 😎 [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Swift](./Algorithms/RemoveDuplicatesFromSortedArray.swift) - [Test](./LeetCodeTests/RemoveDuplicatesFromSortedArrayTest.swift)
 26. [ ] 😎 [Remove Element](https://oj.leetcode.com/problems/remove-element/) - [Swift](./Algorithms/RemoveElement.swift) - [Test](./LeetCodeTests/RemoveElementTest.swift)
 27. [ ] 😎 [Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/) - [Swift](./Algorithms/StrStr.swift) - [Test](./LeetCodeTests/StrStrTest.swift)
 28. [ ] 😐 [Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) - [Swift](./Algorithms/DivideTwoInt.swift) - [Test](./LeetCodeTests/DivideTwoIntTest.swift)
