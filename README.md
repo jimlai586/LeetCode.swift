@@ -3,7 +3,9 @@
 
 I attempted to give my solutions to some problems as exercise.
 Some are verified using python, some are just prototypes that pass a few simple test cases.
+I plan on refining these when Leetcode supports Swift.
 [my python accepted answers](https://github.com/jimlai586/leetcode.py)
+
 
 So far I would say python is simpler and less strict, good for quick prototyping.
 But Swift optional is so good a feature that you will want to change career to just write it.
