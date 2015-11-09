@@ -9,6 +9,10 @@ So far I would say python is simpler and less strict, good for quick prototyping
 But Swift optional is so good a feature that you will want to change career to just write it.
 Also it comes with Playground, which is insanely useful in debugging common problems like infinite loop.
 
+I plan on expanding this exercise by doing more problems and creating Swift introduction on some of the most
+useful techniques that I've picked up in the process.
+
+Swift itself is also expanding, I'm looking forward to seeing more of the well-thought designs like optionals.
 
 
 
