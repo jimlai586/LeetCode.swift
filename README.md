@@ -9,7 +9,8 @@ I plan on refining these when Leetcode supports Swift.
 
 So far I would say python is simpler and less strict, good for quick prototyping.
 But Swift optional is [an elegant weapon in a more civilized age. ] (https://www.youtube.com/watch?v=0aRtupiY9Dw)
-[A quick outline of Swift's most useful features.] (https://github.com/jimlai586/leetcode.py/anelegantweapon.md )
+
+[A quick outline of Swift's most useful features.] (./anelegantweapon.md  )
 
 Also it comes with Playground, which is insanely useful in debugging common problems like infinite loop.
 
