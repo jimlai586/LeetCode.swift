@@ -1,45 +1,33 @@
-//
-//  MergeTwoSortedList.swift
-//  LeetCode
-//
-//  Created by Lex Tang on 5/5/15.
-//  Copyright (c) 2015 Lex Tang. All rights reserved.
-//
-
-/*
-Merge two sorted linked lists and return it as a new list.
-The new list should be made by splicing together the nodes of the first two lists.
-*/
-
-import Foundation
-
-
-extension ListNode
-{
-    func mergeSortedList(list: ListNode) -> ListNode? {
-        var dummy = ListNode(0)
-        var p = dummy
-        var l1: ListNode? = self
-        var l2: ListNode? = list
-        
-        while l1 != nil && l2 != nil {
-            if l1!.value < l2!.value {
-                p.next = l1
-                p = l1!
-                l1 = l1!.next
-            } else {
-                p.next = l2
-                p = l2!
-                l2 = l2!.next
-            }
-        }
-        
-        if l1 != nil {
-            p.next = l1!
-        } else if l2 != nil {
-            p.next = l2!
-        }
-        
-        return dummy.next
+func mergeTwoSortedLists(l1 : ListNode?, l2 : ListNode?) -> ListNode? {
+    guard let l1 = l1 else {
+        return l2
     }
+    guard let l2 = l2 else {
+        return l1
+    }
+    
+    var p : ListNode? = l1
+    var q : ListNode? = l2
+    let ret = p?.val < q?.val ? p : q
+    var r : ListNode? = ret
+    p = p === r ? p?.next : p
+    q = q === r ? q?.next : q
+    while let pp = p, qq = q {
+        r?.next = pp.val < qq.val ? pp : qq
+        r = r?.next
+        p = p === r ? p?.next : p
+        q = q === r ? q?.next : q
+    }
+    while let pp = p {
+        r?.next = pp
+        r = r?.next
+        p = p?.next
+    }
+    while let qq = q {
+        r?.next = qq
+        r = r?.next
+        q = q?.next
+    }
+    
+    return ret
 }
