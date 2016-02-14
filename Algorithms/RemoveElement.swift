@@ -1,36 +1,32 @@
-//
-//  RemoveElement.swift
-//  LeetCode
-//
-//  Created by Lex Tang on 4/22/15.
-//  Copyright (c) 2015 Lex Tang. All rights reserved.
-//
-
-/*
-Given an array and a value, remove all instances of that value in place and return the new length.
-
-The order of elements can be changed. It doesn't matter what you leave beyond the new length.
-*/
-
-import Foundation
-
-
-func removeElement(inout array: Array<Int>, element: Int) -> Int {
-    var i = 0, j = 0
-    
-    for ; i < array.count; i++ {
-        if array[i] == element {
-            continue
+func removeElement(var nums : [Int], val : Int) -> Int {
+    guard nums.count > 0 else {
+        return 0
+    }
+    var i = 0
+    var k = nums.count - 1
+    var c = 0
+    while i < k {
+        if nums[k] == val {
+            k -= 1
+            c += 1
         }
-        
-        array[j] = array[i]
-        j++
+        if nums[k] != val && nums[i] == val {
+            let t = nums[k]
+            nums[k] = nums[i]
+            nums[i] = t
+            k -= 1
+            i += 1
+            c += 1
+        }
+        if nums[i] != val {
+            i += 1
+        }
     }
-    
-    // NOTE: In order to remove the remaining elements.
-    if array.count >= j+1 {
-        array.removeRange(j..<array.count)
+    if nums[k] == val {
+        c += 1
     }
-    
-    return j
+    for _ in 0 ..< c {
+        nums.popLast()
+    }
+    return nums.count
 }
